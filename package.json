@@ -1,0 +1,19 @@
+{
+  "name": "mysumd",
+  "version": "1.0.0",
+  "description": "my package",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/xuandieu1210/mysumd.git"
+  },
+  "bugs": {
+    "url": "https://github.com/xuandieu1210/mysumd/issues"
+  },
+  "homepage": "https://github.com/xuandieu1210/mysumd#readme",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "xuandieu1210",
+  "license": "ISC"
+}
