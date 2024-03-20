@@ -7,6 +7,15 @@
     "type": "git",
     "url": "https://github.com/xuandieu1210/mysumd.git"
   },
+  "dependencies": {
+    "express": "^4.17.1",
+    "axios": "^0.21.4",
+    "deotheme" :"^1.0.0",
+    "deo-vector-math" :"^1.0.0",
+    "deo-big-factorial" :"^1.0.0",
+    "sum-math-deo" :"^1.0.0",
+    "sum-math-deo2" :"^1.0.0"
+  },
   "bugs": {
     "url": "https://github.com/xuandieu1210/mysumd/issues"
   },
