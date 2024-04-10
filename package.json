@@ -10,11 +10,11 @@
   "dependencies": {
     "express": "^4.17.1",
     "axios": "^0.21.4",
-    "deotheme" :"^1.0.0",
-    "deo-vector-math" :"^1.0.0",
-    "deo-big-factorial" :"^1.0.0",
-    "sum-math-deo" :"^1.0.0",
-    "sum-math-deo2" :"^1.0.0"
+    "helertheme" :"^1.0.0",
+    "project-tea-core-math" :"^1.0.2",
+    "helersummathd" :"^1.0.0",
+    "project-tea-core-heler" :"^1.0.2",
+    "project-tea-core-math2" :"^1.0.0"
   },
   "bugs": {
     "url": "https://github.com/helerhoang/myteasumd/issues"
