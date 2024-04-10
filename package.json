@@ -1,11 +1,11 @@
 {
-  "name": "mysumd",
+  "name": "myteasumd",
   "version": "1.0.0",
   "description": "my package",
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/xuandieu1210/mysumd.git"
+    "url": "https://github.com/helerhoang/myteasumd.git"
   },
   "dependencies": {
     "express": "^4.17.1",
@@ -17,12 +17,12 @@
     "sum-math-deo2" :"^1.0.0"
   },
   "bugs": {
-    "url": "https://github.com/xuandieu1210/mysumd/issues"
+    "url": "https://github.com/helerhoang/myteasumd/issues"
   },
-  "homepage": "https://github.com/xuandieu1210/mysumd#readme",
+  "homepage": "https://github.com/helerhoang/myteasumd#readme",
   "scripts": {
     "test": "test"
   },
-  "author": "xuandieu1210",
+  "author": "helerhoang",
   "license": "ISC"
 }
